@@ -44,7 +44,7 @@ Built using AI-assisted development methodology - a collaborative approach combi
 ## Author
 
 **Kiwo Jumbam**
-- Portfolio: [Add your portfolio link]
+- Portfolio: [Portfolio link]
 - LinkedIn: [linkedin.com/in/kiwo-jumbam-80ab6537b](https://www.linkedin.com/in/kiwo-jumbam-80ab6537b/)
 - Email: kjumbam@yahoo.com
 

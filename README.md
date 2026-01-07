@@ -11,6 +11,23 @@ MeetingQuick is a productivity Chrome extension that helps you manage your meeti
 - **Time Tracking**: Monitor time spent in meetings
 - **Clean Interface**: Modern, intuitive UI for seamless user experience
 
+## Screenshots
+
+### Free Plan View
+![Free Plan](screenshots/FREE%20PLAN.png)
+
+*Choose the plan that fits your needs*
+
+### Meeting History
+![History](screenshots/HISTORY.png)
+
+*Track all your past meetings in one place*
+
+### Today's Meetings
+![Meetings Today](screenshots/MEETINGS%20TODAY.png)
+
+*Quick access to today's scheduled meetings*
+
 ## Technologies Used
 
 - JavaScript

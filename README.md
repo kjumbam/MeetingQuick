@@ -51,3 +51,6 @@ Built using AI-assisted development methodology - a collaborative approach combi
 ---
 
 Star this repo if you find it helpful!
+
+![Screenshot](screenshots/screenshot1.png)
+
